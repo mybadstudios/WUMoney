@@ -7,7 +7,7 @@ If You enjoy my work, please consider buying me a coffee...
 [<img src="bmcbutton.png">](https://www.buymeacoffee.com/mybad)
 
 
-#Features
+# Features
 
 - Sell in-game content directly on your website using WooCommerce
 - Sell items without having to pay royalties to third parties
